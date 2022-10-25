@@ -1,0 +1,260 @@
+
+body {
+/* 
+    font-family: 'Cairo', cursive;
+    font-size: 30px; */
+}
+
+                /* Start From # To # */
+                
+div div div h2 p{
+
+    margin: 5px 0 ;
+    display: inline-block;
+}
+
+div div div h2{
+
+    width: fit-content;
+    height: fit-content;
+    background-color: #EEE;
+    border-left: black solid 4px;
+}
+
+.f{
+
+    margin-left: 5px;
+}
+
+.n1 , .n2{
+
+    color: black;
+}
+
+.n2{
+
+    margin-right: 5px;
+}
+
+.t , .f {
+
+    color: red;
+}                
+
+                /* End From # To # */
+
+.dtitle{
+
+    background-color: #EEE;
+    outline: solid 10px #EEE;
+    border-left: 4px blue solid;
+    margin: 10px;
+}
+
+.stitle{
+
+    padding: 30px;
+    margin: 30px auto;
+    width: 170px;
+    border-bottom: 4px red solid;
+}
+
+.assign-1-shape-1{
+    
+    color: white;
+    width: 500px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 30px;
+    background-color: blueviolet;
+}
+
+
+.assign-1-shape-2{
+
+    color: white;
+    width: 500px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 30px;
+    background-color: hsla(271, 76%, 53%, 0.4);
+}
+
+
+.assign-1-shape-3{
+
+    color: white;
+    width: 500px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 30px;
+    background-color: rgba(138, 44, 226 , 0.1);   
+}
+
+.assign-2-shape-1{
+
+    background-color: #EEE;
+    padding: 20px;
+    display: inline-block;
+    margin-bottom: 30px;
+    border: 5px red solid;
+    outline: 5px black solid;
+    margin-right: 20px;
+}
+
+.assign-2-shape-2{
+
+    background-color: #EEE;
+    padding: 20px;
+    display: inline-block;
+    margin-bottom: 30px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue green;
+    outline: 5px black solid;
+    margin-right: 20px;
+}
+
+.assign-2-shape-3{
+
+    background-color: #EEE;
+    padding: 20px;
+    margin-bottom: 30px;
+    display: inline-block;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: red rebeccapurple green yellow;
+    outline: 5px black solid;
+    margin-right: 20px;
+}
+
+.assign-3-shape-1{
+
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #EEE;
+    border-left: 10px red solid;
+    outline: #EEE solid 10px;
+}
+
+.assign-3-shape-2{
+
+    width: 400px;
+    padding: 30px;
+    margin: 20px;
+    visibility: hidden;
+}
+
+.assign-3-shape-3{
+
+    width: 400px;
+    padding: 30px;
+    margin: 20px;
+    background-color: #EEE;
+    border-left: 10px blue solid;
+    outline: #EEE solid 10px;
+}
+
+div div div div .title{
+
+    color: red;
+}
+
+div div div .title{
+
+    color: blue;
+}
+
+div div div p , div div .title{
+
+    color: green;
+}
+
+.title-one , .title-two , .title-three , .title-four{
+
+    background-color: rgb(179, 46, 46);
+    padding: 20px;
+    margin: 15px;
+    color: white;
+    max-width: 400px;
+    width: fit-content;
+    overflow-y: hidden;
+
+}
+
+.title-four{
+
+    max-height: 30px;
+}
+
+.ews {
+
+    padding: 20px;
+    margin: 20px;
+    background-color: #EEE;
+    font-size: 100px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: black;
+    text-shadow: 3.5px 2px 0 rgb(221, 16, 16) , 6.9px 8px 0 rgb(68, 49, 241) , 10px 12px 0 rgb(183, 0, 255);
+}
+
+.one {
+
+    text-transform: uppercase;
+}
+
+.two {
+
+    text-transform: capitalize;
+}
+
+.three {
+
+    text-transform: lowercase;
+}
+
+.one , .two , .three {
+
+    background-color: #EEE;
+    padding: 20px;
+    margin: 10px;
+    font-size: 50px;
+}
+
+.lorem-assin {
+
+    max-width: 400px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #EEE;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.elzero-botton {
+
+    background-color: #009688;
+    margin: 15px;
+    width: fit-content;
+    border-bottom: 10px solid #00514a;
+}
+
+.elzero-botton a {
+
+    text-transform: capitalize;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 20px;
+    text-align: center;
+    color: white;
+    font-size: 36px;
+}

@@ -1,0 +1,60 @@
+
+/* from e 1 to e 10 */
+
+.p-w{
+
+    color: red;
+}
+
+.p-1{
+
+    text-align: center;
+    color: red !important;
+    text-shadow: 5px 6px 4px black !important;
+
+}
+
+.div-p{
+    
+     color: white;
+     background-image: url(../media/adel-shakal.png);
+     /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+    /* background-size: contain; */
+}
+
+.user-name{
+
+    width: 50%;
+}
+
+.label-user-name{
+
+    font-style: family;
+    color: blueviolet;
+}
+
+.send-button{
+    
+    width: 100px;
+    color: red;
+}
+
+a{
+    color: blue;
+}
+
+.div-padding{
+    /* 
+    border-width: 10px ;
+    border-color: red hotpink;
+    border-style: solid dotted dashed solid; 
+    outline: 10px black solid;
+    */
+    background-color: #ddd;
+    padding: 10px;
+    width: 70%;
+    margin: 0 auto;
+    border: 10px red solid;
+    width: 300px;
+}
