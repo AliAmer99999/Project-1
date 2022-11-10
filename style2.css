@@ -230,11 +230,15 @@ div span{
 
     display: inline-block;
     padding: 15px;
-    margin: 15px;
+    margin: 0 15px 0 0;
     background-color: blue;
+    font-family: cursive;
     color: white;
-    border-radius: 6px;
+    /* position: fixed; */
+    /* border-radius: 6px; */
     text-decoration: none;
+    border-radius: 16px;
+    border-bottom: #332293 solid 10px;
 }
 
     /* 
@@ -304,4 +308,9 @@ body {
     margin: 10px;
     padding: 15px;
     background-color: #ededed;
+}
+
+.test-inherit {
+
+    background-color: #EEE;
 }
